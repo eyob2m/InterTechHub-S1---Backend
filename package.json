@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "simple backend project for intertech hub stage 1 backend task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyob2m/InterTechHub-S1---Backend.git"
+  },
+  "keywords": [
+    "intertechhub"
+  ],
+  "author": "eyob betemariam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyob2m/InterTechHub-S1---Backend/issues"
+  },
+  "homepage": "https://github.com/eyob2m/InterTechHub-S1---Backend#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
