@@ -1,6 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "simple backend project for intertech hub stage 1 backend task",
   "main": "index.js",
   "scripts": {
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/eyob2m/InterTechHub-S1---Backend#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "nodemon": "^3.1.7"
   }
